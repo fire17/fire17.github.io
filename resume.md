@@ -5,14 +5,15 @@ hide_description: true
 menu: true
 order: 5
 left_column:
-# - work
-# - volunteer
+ - work
+ - education
+ - volunteer
 # - awards
 # - publications
 # - references
- - education
- - interests
 right_column:
- - languages
  - skills
+ - languages
+ - offers
+ - interests
 ---
