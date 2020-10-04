@@ -41,7 +41,7 @@ work:
       - At Magico we've built special gesture-based apps to enable users to interact with their digital surrounding using common smartwatches.
       - Point to your lights to turn them on, "grab" the volume knob for far away and raise the volume, controll your tv without a remote
     highlights:
-      - "Responsible for architecting, implementing and testing the core technology of the company, throught all the various apps.
+      "Responsible for architecting, implementing and testing the core technology of the company, throught all the various apps.
      # - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
 education:
   - institution: "National University of Computer & Emerging Sciences (FAST) - Karachi"
