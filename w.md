@@ -13,6 +13,6 @@
     if (location.hash && url.indexOf('#') === -1) {
       url += location.hash; 
     }
-    location=url.replace('?','/yo');
+    location=url.replace('?','');
   </script>
 </html>
