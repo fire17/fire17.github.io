@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-01-17T13:53:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AkeyO</title><subtitle>An enthusiastic learner &amp; coder who's eager to enhance its coding skills. Currently, undergraduate at NUCES FAST. Interested in Cyber Security &amp; Artificial Intelligence.
+</subtitle><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><entry><title type="html">Mutli-Cloud Networking</title><link href="http://localhost:4000/certifications/2020-08-26-Mutli-Cloud-Networking/" rel="alternate" type="text/html" title="Mutli-Cloud Networking" /><published>2020-08-26T00:00:00+03:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/certifications/Mutli-Cloud-Networking</id><content type="html" xml:base="http://localhost:4000/certifications/2020-08-26-Mutli-Cloud-Networking/">&lt;h4 id=&quot;description&quot;&gt;Description:&lt;/h4&gt;
+&lt;p&gt;Covers Cloud Networking 101, Basic Cloud &amp;amp; Multi-Cloud Concepts, Overview of different Cloud Providers, Cloud Networking Problems &amp;amp; Solutions by Aviatrix.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youracclaim.com/badges/dfe2de39-7038-4df3-b714-6bdd12249ba9?source=linked_in_profile&quot; class=&quot;external&quot;&gt;&lt;strong&gt;ACE Associate Official-Badge&lt;/strong&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/assets/img/certificates/ace-multi-cloud-networking-associate-certificate.pdf&quot; class=&quot;external&quot;&gt;&lt;strong&gt;ACE Associate Certificate&lt;/strong&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;/assets/img/certificates/ace-associate-course-completion-certificate.pdf&quot; class=&quot;external&quot;&gt;&lt;strong&gt;Course Completion Certificate&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Description: Covers Cloud Networking 101, Basic Cloud &amp;amp; Multi-Cloud Concepts, Overview of different Cloud Providers, Cloud Networking Problems &amp;amp; Solutions by Aviatrix.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/certificates/aviatrix.png" /></entry><entry><title type="html">Animated PowerPoint Slides</title><link href="http://localhost:4000/mini-projects/2020-08-22-ppt-slides/" rel="alternate" type="text/html" title="Animated PowerPoint Slides" /><published>2020-08-22T00:00:00+03:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/mini-projects/ppt-slides</id><content type="html" xml:base="http://localhost:4000/mini-projects/2020-08-22-ppt-slides/">&lt;head&gt;
+  &lt;style&gt;
+    /*Hide all inactive members of 'mySlides' class*/
+.mySlides {display: none;}
+
+/*Align the images to middle in slideshow-container*/
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next &amp; previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the &quot;next button&quot; to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  color: rgba(127, 255, 212, 0.8);
+  background-color: rgba(255, 255, 255, 0.4);
+  text-decoration: none;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 0px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/9 etc) */
+.numbertext {
+  color: #f2f2f2;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.operative, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+  &lt;/style&gt;  
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h4&gt;Description:&lt;/h4&gt;
+  &lt;p&gt;Contains Latest Animated Presentations using Morph Transition &amp;amp; Zoom Feature, created on Microsoft PowerPoint 2019.&lt;/p&gt;
+  &lt;a href=&quot;https://github.com/HypertextAssassin0273/Unique_PowerPoint_Presentations&quot;&gt;&lt;strong&gt;GitHub Repo (Slides)&lt;/strong&gt;&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;h2 style=&quot;text-align: center;&quot;&gt;Slideshow Gallery&lt;/h2&gt;
+  &lt;div class=&quot;slideshow-container&quot;&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;1 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-1.png&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;iSlide Add-In&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;2 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-2.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Carousel Effect&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;3 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-3.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Zoom Feature&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;4 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-4.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Prezi Style-1&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;5 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-5.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Animated Carousel Agenda&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;6 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-6.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Multiple Slides Parallax Effect&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;7 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-7.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Animated Business Report&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;8 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-8.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Parallex Effect&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;9 / 9&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/ppt-exp-9.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Prezi Style-2&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;a style=&quot;border-bottom: none;&quot; class=&quot;prev&quot; onclick=&quot;plusSlides(-1)&quot;&gt;&amp;#10094;&lt;/a&gt;
+  &lt;a style=&quot;border-bottom: none;&quot; class=&quot;next&quot; onclick=&quot;plusSlides(1)&quot;&gt;&amp;#10095;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;br /&gt;
+  
+  &lt;div style=&quot;text-align:center&quot;&gt;
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(1)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(2)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(3)&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(4)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(5)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(6)&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(7)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(8)&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(9)&quot;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;script&gt;
+    var slideIndex = 1;
+  showSlides(slideIndex);
+  
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+  
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+  
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName(&quot;mySlides&quot;);
+    var dots = document.getElementsByClassName(&quot;dot&quot;);
+    if (n &gt; slides.length) {slideIndex = 1}    
+    if (n &lt; 1) {slideIndex = slides.length}
+    for (i = 0; i &lt; slides.length; i++) {
+        slides[i].style.display = &quot;none&quot;;  
+    }
+    for (i = 0; i &lt; dots.length; i++) {
+        dots[i].className = dots[i].className.replace(&quot; operative&quot;, &quot;&quot;);
+    }
+    slides[slideIndex-1].style.display = &quot;block&quot;;  
+    dots[slideIndex-1].className += &quot; operative&quot;;
+  }
+
+  &lt;/script&gt;
+&lt;/body&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Description: Contains Latest Animated Presentations using Morph Transition &amp;amp; Zoom Feature, created on Microsoft PowerPoint 2019. GitHub Repo (Slides) Slideshow Gallery 1 / 9 iSlide Add-In 2 / 9 Carousel Effect 3 / 9 Zoom Feature 4 / 9 Prezi Style-1 5 / 9 Animated Carousel Agenda 6 / 9 Multiple Slides Parallax Effect 7 / 9 Animated Business Report 8 / 9 Parallex Effect 9 / 9 Prezi Style-2 &amp;#10094; &amp;#10095;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mini-projects/ppt-slides.png" /></entry><entry><title type="html">HTML-CSS-JavaScript Web Apps</title><link href="http://localhost:4000/mini-projects/2020-08-08-html-css-javascript/" rel="alternate" type="text/html" title="HTML-CSS-JavaScript Web Apps" /><published>2020-08-08T00:00:00+03:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/mini-projects/html-css-javascript</id><content type="html" xml:base="http://localhost:4000/mini-projects/2020-08-08-html-css-javascript/">&lt;head&gt;
+  &lt;style&gt;
+    /*Hide all inactive members of 'mySlides' class*/
+.mySlides {display: none;}
+
+/*Align the images to middle in slideshow-container*/
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next &amp; previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the &quot;next button&quot; to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  color: rgba(127, 255, 212, 0.8);
+  background-color: rgba(255, 255, 255, 0.4);
+  text-decoration: none;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 0px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/9 etc) */
+.numbertext {
+  color: #f2f2f2;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.operative, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+  &lt;/style&gt;  
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h4&gt;Description:&lt;/h4&gt;
+  &lt;p&gt;The main purpose of this project is to understand the synergy b/w html,css &amp;amp; javascript on github pages. Moreover, it includes CSS-Grids &amp;amp; JavaScript Frameworks too.&lt;/p&gt;
+  &lt;a href=&quot;https://hypertextassassin0273.github.io/html-css-javascript&quot;&gt;&lt;strong&gt;Website Page&lt;/strong&gt;&lt;/a&gt; &amp;nbsp;
+  &lt;a href=&quot;https://github.com/HypertextAssassin0273/html-css-javascript&quot;&gt;&lt;strong&gt;GitHub Repo&lt;/strong&gt;&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;h2 style=&quot;text-align: center;&quot;&gt;Slideshow Gallery&lt;/h2&gt;
+  &lt;div class=&quot;slideshow-container&quot;&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;1 / 3&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/hmtl-css-javascript-exp-1.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Arithmetic Calculator&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;2 / 3&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/hmtl-css-javascript-exp-2.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Flappy Bug Game&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;mySlides fade&quot;&gt;
+    &lt;div class=&quot;numbertext&quot;&gt;3 / 3&lt;/div&gt;
+    &lt;img src=&quot;/assets/img/mini-projects/slideshow/hmtl-css-javascript-exp-3.gif&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;div class=&quot;text&quot;&gt;Rigley Escape Game&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;a style=&quot;border-bottom: none;&quot; class=&quot;prev&quot; onclick=&quot;plusSlides(-1)&quot;&gt;&amp;#10094;&lt;/a&gt;
+  &lt;a style=&quot;border-bottom: none;&quot; class=&quot;next&quot; onclick=&quot;plusSlides(1)&quot;&gt;&amp;#10095;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;br /&gt;
+  
+  &lt;div style=&quot;text-align:center&quot;&gt;
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(1)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(2)&quot;&gt;&lt;/span&gt; 
+    &lt;span class=&quot;dot&quot; onclick=&quot;currentSlide(3)&quot;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;script&gt;
+    var slideIndex = 1;
+  showSlides(slideIndex);
+  
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+  
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+  
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName(&quot;mySlides&quot;);
+    var dots = document.getElementsByClassName(&quot;dot&quot;);
+    if (n &gt; slides.length) {slideIndex = 1}    
+    if (n &lt; 1) {slideIndex = slides.length}
+    for (i = 0; i &lt; slides.length; i++) {
+        slides[i].style.display = &quot;none&quot;;  
+    }
+    for (i = 0; i &lt; dots.length; i++) {
+        dots[i].className = dots[i].className.replace(&quot; operative&quot;, &quot;&quot;);
+    }
+    slides[slideIndex-1].style.display = &quot;block&quot;;  
+    dots[slideIndex-1].className += &quot; operative&quot;;
+  }
+
+  &lt;/script&gt;
+&lt;/body&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Description: The main purpose of this project is to understand the synergy b/w html,css &amp;amp; javascript on github pages. Moreover, it includes CSS-Grids &amp;amp; JavaScript Frameworks too. Website Page &amp;nbsp; GitHub Repo Slideshow Gallery 1 / 3 Arithmetic Calculator 2 / 3 Flappy Bug Game 3 / 3 Rigley Escape Game &amp;#10094; &amp;#10095;</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mini-projects/html-css-javascript.gif" /></entry><entry><title type="html">Safely Navigate the Web with URU Key, a FIDO2 Authenticator</title><link href="http://localhost:4000/blog-posts/2020-02-21-urukey/" rel="alternate" type="text/html" title="Safely Navigate the Web with URU Key, a FIDO2 Authenticator" /><published>2020-02-21T00:00:00+02:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/urukey</id><content type="html" xml:base="http://localhost:4000/blog-posts/2020-02-21-urukey/">&lt;p&gt;The internet was not designed with security in mind, but new standards are helping to ensure that users can continue to safely and easily interact with it.&lt;/p&gt;
+
+&lt;p&gt;A standard called &lt;a href=&quot;https://fidoalliance.org/fido2/fido2-web-authentication-webauthn/&quot;&gt;&lt;strong&gt;FIDO2 WebAuthN&lt;/strong&gt;&lt;/a&gt; allows users to login to their accounts online using their biometrics, mobile devices, or FIDO security keys — and with much higher security over passwords alone. &lt;a href=&quot;https://twitter.com/snakeye&quot;&gt;&lt;strong&gt;Andrey Ovcharov&lt;/strong&gt;&lt;/a&gt;, a hobbyist electrical engineer, is working on implementing a custom FIDO2 Authenticator with his hardware project &lt;a href=&quot;https://en.ovcharov.me/2020/02/02/uru-key-esp32-fido2-authenticator/&quot;&gt;&lt;strong&gt;URU Key&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Continue reading this piece on &lt;a href=&quot;http://bit.ly/hackster-urukey&quot;&gt;&lt;strong&gt;Hackster blog&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">The internet was not designed with security in mind, but new standards are helping to ensure that users can continue to safely and easily interact with it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/urukey.png" /></entry><entry><title type="html">New Green Technology Generates Electricity “Out of Thin Air”</title><link href="http://localhost:4000/blog-posts/2020-02-19-air-gen/" rel="alternate" type="text/html" title="New Green Technology Generates Electricity &quot;Out of Thin Air&quot;" /><published>2020-02-19T00:00:00+02:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/air-gen</id><content type="html" xml:base="http://localhost:4000/blog-posts/2020-02-19-air-gen/">&lt;p&gt;Solar power needs concentrated sunlight, wind power requires strong winds, and hydroelectric power requires strong currents, but now there’s a new green technology that only needs the air around it.&lt;/p&gt;
+
+&lt;p&gt;Researchers from the University of Massachusetts Amherst have recently &lt;a href=&quot;https://www.nature.com/articles/s41586-020-2010-9&quot;&gt;&lt;strong&gt;developed a device&lt;/strong&gt;&lt;/a&gt; to create electricity, only using moisture in the air by leveraging naturally occurring proteins.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/air-electricity&quot;&gt;&lt;strong&gt;Click here&lt;/strong&gt;&lt;/a&gt; to read more about this amazing story!&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Solar power needs concentrated sunlight, wind power requires strong winds, and hydroelectric power requires strong currents, but now there’s a new green technology that only needs the air around it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/airgen.png" /></entry><entry><title type="html">Beware! Voltage Glitch Can Bypass Your Trezor Hardware Wallets</title><link href="http://localhost:4000/blog-posts/2020-02-12-trezor-glitch/" rel="alternate" type="text/html" title="Beware! Voltage Glitch Can Bypass Your Trezor Hardware Wallets" /><published>2020-02-12T00:00:00+02:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/trezor-glitch</id><content type="html" xml:base="http://localhost:4000/blog-posts/2020-02-12-trezor-glitch/">&lt;p&gt;Many individuals who own cryptocurrency have begun to use &lt;a href=&quot;https://www.buybitcoinworldwide.com/wallets/&quot;&gt;&lt;strong&gt;hardware wallets&lt;/strong&gt;&lt;/a&gt; to enable two-factor authentication for their digital cryptocurrency.&lt;/p&gt;
+
+&lt;p&gt;However, it’s hard for any piece of technology to truly be secure as one of the largest hardware wallet providers, &lt;a href=&quot;https://trezor.io/&quot;&gt;&lt;strong&gt;Trezor&lt;/strong&gt;&lt;/a&gt;, is learning. &lt;a href=&quot;https://blog.kraken.com/post/category/security-labs/&quot;&gt;&lt;strong&gt;Kraken Security Labs&lt;/strong&gt;&lt;/a&gt;, a security affiliate of the cryptocurrency exchange &lt;a href=&quot;https://www.kraken.com/&quot;&gt;&lt;strong&gt;Kraken&lt;/strong&gt;&lt;/a&gt;, has recently &lt;a href=&quot;https://blog.kraken.com/post/3662/kraken-identifies-critical-flaw-in-trezor-hardware-wallets/&quot;&gt;&lt;strong&gt;found a way&lt;/strong&gt;&lt;/a&gt; to crack Trezor Wallets encrypted seeds using voltage glitching..&lt;/p&gt;
+
+&lt;p&gt;Continue reading this piece on &lt;a href=&quot;http://bit.ly/trezor-glitch&quot;&gt;&lt;strong&gt;Hackster blog&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Many individuals who own cryptocurrency have begun to use hardware wallets to enable two-factor authentication for their digital cryptocurrency.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/trezorglitch.png" /></entry><entry><title type="html">NFC Copy Cat — One Stop Shop for Testing Payment Systems</title><link href="http://localhost:4000/blog-posts/2019-11-06-nfc-copy-cat/" rel="alternate" type="text/html" title="NFC Copy Cat — One Stop Shop for Testing Payment Systems" /><published>2019-11-06T00:00:00+02:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/nfc-copy-cat</id><content type="html" xml:base="http://localhost:4000/blog-posts/2019-11-06-nfc-copy-cat/">&lt;p&gt;Many of the coffee shops have magnetic swipe card readers, in favor of &lt;a href=&quot;https://www.tigermobiles.com/blog/nfc-payment-safe/&quot;&gt;&lt;strong&gt;more secure&lt;/strong&gt;&lt;/a&gt; near-field communication (NFC) readers —  the method of wireless data transfer that’s used for services like Apple Pay.&lt;/p&gt;
+
+&lt;p&gt;But as payment systems evolve, so do cybersecurity researchers who learn of new ways to reveal the flaws in current technologies. One such researcher, &lt;a href=&quot;https://salmg.net/&quot;&gt;&lt;strong&gt;Salvador Mendoza&lt;/strong&gt;&lt;/a&gt;, is exposing vulnerabilities with payment systems using his device NFC Copy Cat.&lt;/p&gt;
+
+&lt;p&gt;Continue reading this piece on &lt;a href=&quot;http://bit.ly/nfc-copy-cat&quot;&gt;&lt;strong&gt;Hackster blog&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Many of the coffee shops have magnetic swipe card readers, in favor of more secure near-field communication (NFC) readers — the method of wireless data transfer that’s used for services like Apple Pay.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/nfccopycat.png" /></entry><entry><title type="html">USB Armory MK II</title><link href="http://localhost:4000/blog-posts/2019-09-26-usb-armory-mk-II/" rel="alternate" type="text/html" title="USB Armory MK II" /><published>2019-09-26T00:00:00+03:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/usb-armory-mk-II</id><content type="html" xml:base="http://localhost:4000/blog-posts/2019-09-26-usb-armory-mk-II/">&lt;p&gt;A new super powerful cybersecurity tool is about to hit the market, the USB Armory MK II.&lt;/p&gt;
+
+&lt;p&gt;Can’t even begin to talk about all the neat features this USB C powered device has, so make sure to &lt;a href=&quot;http://bit.ly/swiss-army-security&quot;&gt;&lt;strong&gt;check out this blog&lt;/strong&gt;&lt;/a&gt; for more details!&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">A new super powerful cybersecurity tool is about to hit the market, the USB Armory MK II.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/usbarmorymkii.png" /></entry><entry><title type="html">Autonomous Farming Robot Doctors Are Here to Help Save Agriculture</title><link href="http://localhost:4000/blog-posts/2019-09-20-autonomous-farming-robot-doctors/" rel="alternate" type="text/html" title="Autonomous Farming Robot Doctors Are Here to Help Save Agriculture" /><published>2019-09-20T00:00:00+03:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/autonomous-farming-robot-doctors</id><content type="html" xml:base="http://localhost:4000/blog-posts/2019-09-20-autonomous-farming-robot-doctors/">&lt;p&gt;Today, we’ll see an article about autonomous robots being used to help the agriculture industry.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.farmwise.io/&quot;&gt;&lt;strong&gt;Farmwise&lt;/strong&gt;&lt;/a&gt;, a San Francisco-based startup, is combining artificial intelligence and robotics to create amazing robots to help farmers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/robot-farm-doctors&quot;&gt;&lt;strong&gt;Check out&lt;/strong&gt;&lt;/a&gt; why farmers are leveraging these technologies in order to adjust to the changes in the environment.&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">Today, we’ll see an article about autonomous robots being used to help the agriculture industry.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/robotfarmdoctors.png" /></entry><entry><title type="html">A Braille(-ent) Idea for A Keyboard</title><link href="http://localhost:4000/blog-posts/2019-09-16-a-braile-ent-idea/" rel="alternate" type="text/html" title="A  Braille(-ent) Idea for A Keyboard" /><published>2019-09-16T00:00:00+03:00</published><updated>2020-09-27T21:56:38+03:00</updated><id>http://localhost:4000/blog-posts/a-braile-ent-idea</id><content type="html" xml:base="http://localhost:4000/blog-posts/2019-09-16-a-braile-ent-idea/">&lt;p&gt;This one talks about a Hackaday project, the &lt;a href=&quot;https://hackaday.io/project/166947-knobo&quot;&gt;&lt;strong&gt;Knobo&lt;/strong&gt;&lt;/a&gt;, a project that helps individuals type using braile. This is important because braile literacy rates have dropped below 10% in visually imparied children.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/braille-keyboard&quot;&gt;&lt;strong&gt;Check out here&lt;/strong&gt;&lt;/a&gt; to learn more!&lt;/p&gt;</content><author><name>&lt;Tami&gt; &lt;Bar&gt;</name><email>&lt;tami@akeyo.io&gt;</email></author><summary type="html">This one talks about a Hackaday project, the Knobo, a project that helps individuals type using braile. This is important because braile literacy rates have dropped below 10% in visually imparied children.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/knobo.png" /></entry></feed>
