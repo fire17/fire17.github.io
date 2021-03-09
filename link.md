@@ -12,10 +12,10 @@
     if (location.hash && url.indexOf('#') === -1) {
       url += location.hash;
     }
-    location=url.replace('?','');
+    location.href=url.replace('?','');
   </script>
 </head>
 <body>
-  <h1>Just a moment!...</h1>
+  <h1>Just a moment...</h1>
 </body>
 </html>
