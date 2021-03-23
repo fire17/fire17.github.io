@@ -3,10 +3,10 @@
 <!-- <head> -->
   <meta charset="utf-8">
   <title>Redirecting…</title>
-  <link rel="canonical" href="http://31.220.49.146//">
-  <meta http-equiv="refresh" content="0; url=http://31.220.49.146/">
+  <link rel="canonical" href="http://31.220.49.146:8087/">
+  <meta http-equiv="refresh" content="0; url=http://31.220.49.146:8087/">
   <script>
-    var url = 'http://linkgateway0.herokuapp.com/';
+    var url = 'http://31.220.49.146:8087/';
     if (location.search && url.indexOf('?') === -1) {
       url = url.replace(/($|#)/, location.search + '$1');
     }
