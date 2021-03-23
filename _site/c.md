@@ -1,11 +1,11 @@
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting…</title>
-  <link rel="canonical" href="http://31.220.49.146/">
-  <meta http-equiv="refresh" content="0; url=http://31.220.49.146/">
+  <link rel="canonical" href="http://challenge18.herokuapp.com/">
+  <meta http-equiv="refresh" content="0; url=http://challenge18.herokuapp.com/">
   <h1>Just a moment...</h1>
   <script>
-    var url = 'http://31.220.49.146/';
+    var url = 'http://challenge18.herokuapp.com/';
     if (location.search && url.indexOf('?') === -1) {
       url = url.replace(/($|#)/, location.search + '$1');
     }
