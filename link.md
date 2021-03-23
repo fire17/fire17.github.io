@@ -1,4 +1,5 @@
 <html lang="en-US">
+<head>
   <meta charset="utf-8">
   <title>Redirecting…</title>
   <link rel="canonical" href="http://31.220.49.146/">
@@ -12,6 +13,10 @@
     if (location.hash && url.indexOf('#') === -1) {
       url += location.hash;
     }
-    location=url.replace('?','');
+    location.href=url.replace('?','');
   </script>
+</head>
+<body>
+  <h1>Just a moment...</h1>
+</body>
 </html>
