@@ -1,7 +1,7 @@
 ---
 cover: false
 image: /assets/img/hydejack-8.png
-title: "👉 akeyo 💡 SUNNY"
+title: "👉 akeyo 💡 SUNNY 1"
 hide_description: false
 description: "i/o solutions ◦ ånändâ projects ◦ super env for devs"
 ---
@@ -14,4 +14,15 @@ description: "i/o solutions ◦ ånändâ projects ◦ super env for devs"
 # (: תודה רבה - תמי
 ![Sunny](/assets/img/Sunny.jpg)
 
+image:
+  path:    /assets/img/projects/Sunny.jpg
+  url:     https://google.com
+    
+
 </div>
+
+image:
+  path:    /assets/img/projects/Sunny.jpg
+  url:     https://google.com
+    
+
