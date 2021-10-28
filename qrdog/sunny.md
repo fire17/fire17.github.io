@@ -1,7 +1,7 @@
 ---
 cover: false
 image: /assets/img/hydejack-8.png
-title: "👉 akeyo 💡 SUNNY 1"
+title: "👉 akeyo 💡 SUNNY"
 hide_description: false
 description: "i/o solutions ◦ ånändâ projects ◦ super env for devs"
 ---
