@@ -11,6 +11,7 @@ hide_description: false
 <h2> בבקשה שלחו לי וואטספ
 <br>
 🙏עם מיקום</h2>
+</div>
 
 
 
@@ -22,11 +23,11 @@ hide_description: false
 
 
 
-
+<div align="center">
 <h1> (: תודה רבה - תמי </h1>
 </div>
 
-333
+44
 
 
 
