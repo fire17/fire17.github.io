@@ -1,7 +1,7 @@
 ---
 cover: false
 image: /assets/img/hydejack-8.png
-title: "👉 I Found Your Dog 🐶"
+title: "👉 We Found Your Dog 🐶"
 hide_description: false
 ---
 
