@@ -14,15 +14,11 @@ description: "i/o solutions ◦ ånändâ projects ◦ super env for devs"
 # (: תודה רבה - תמי
 ![Sunny](/assets/img/Sunny.jpg)
 
-image:
-  path:    /assets/img/projects/Sunny.jpg
-  url:     https://google.com
+![Full-width image](https://placehold.it/800x100){:.lead width="800" height="100" loading="lazy"}
+
     
 
 </div>
 
-image:
-  path:    /assets/img/projects/Sunny.jpg
-  url:     https://google.com
-    
+![Full-width image](https://placehold.it/800x100){:.lead url="https://google.com" width="800" height="100" loading="lazy"}
 
