@@ -4,13 +4,12 @@ image: /assets/img/hydejack-8.png
 title: "👉 We Found Your Dog 🐶"
 hide_description: false
 ---
-
-911
-  
 <div align="center">
 <h1>!שלום
+
 !תודה שמצאתם את סאני </h1>
 <h2> בבקשה שלחו לי וואטספ
+
 עם מיקום 🙏</h2>
 </div>
 
