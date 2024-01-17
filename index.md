@@ -6,7 +6,7 @@ hide_description: false
 description: "i/o solutions ◦ ånändâ projects ◦ super env for devs"
 ---
 
-## Hi, I am Tami!!! 🎉
+## Hi, Welcome to Akeyo 🎉
 
 I created this personal website to keep track of my projects, talk about my experience as an Engineer, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to stand out in the crowd one day (Inshaallah).
 
