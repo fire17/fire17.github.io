@@ -87,7 +87,8 @@ GEM
 
 PLATFORMS
   ruby
-
+  x86_64-linux
+  
 DEPENDENCIES
   jekyll-default-layout
   jekyll-feed
