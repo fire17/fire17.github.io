@@ -42,9 +42,12 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Build with Jekyll
+      - name: Update gem system
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: gem update --system
+      - name: Build with Jekyll --trace
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --trace
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
