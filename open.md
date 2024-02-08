@@ -14,7 +14,7 @@
     // Example usage of the function:
     var token = window.location.href.split("#")[1];
     // Add "http://" if needed
-    //token = addHttpIfNeeded(token);
+    token = addHttpIfNeeded(token);
     window.location = token;
 </script>
 </html>
